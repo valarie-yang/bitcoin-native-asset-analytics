@@ -5,6 +5,9 @@ A product case study for normalizing and analyzing Bitcoin-native assets across 
 **Role lens:** Product Management  
 **Focus:** On-chain Data · UTXO · Address Analytics · Event Modeling · Risk Labels
 
+**Portfolio:** [Valarie Yang — Product Portfolio](https://www.figma.com/design/pIUP2RYiUR3fpGoKHjRGnU/Valarie-Yang-%E2%80%94-Product-Portfolio?node-id=0-1)  
+**Profile:** [LinkedIn](https://www.linkedin.com/in/valarie-yang-08573b122/) · [GitHub](https://github.com/valarie-yang)
+
 > This public portfolio reconstruction uses synthetic / public-safe examples. It contains no confidential company data and does not claim Bitcoin protocol-core, indexer-engine or compliance ownership.
 
 ## My role and scope
