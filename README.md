@@ -8,6 +8,18 @@ A portfolio case study for normalizing and analyzing Bitcoin-native assets acros
 **Portfolio:** [Valarie Yang — Product Portfolio](https://www.figma.com/design/pIUP2RYiUR3fpGoKHjRGnU/Valarie-Yang-%E2%80%94-Product-Portfolio?node-id=0-1)  
 
 ![Bitcoin-native asset analytics model](assets/portfolio-signal.svg)
+
+## Case evidence: role / inputs / outputs / result / boundary
+
+| | Portfolio proof |
+|---|---|
+| **My role** | Owned the event/object model, asset/address/UTXO analytics surfaces, data-quality states, risk-label semantics and proposed metrics. |
+| **Inputs** | Synthetic Deploy/Mint/Transfer events, transaction/UTXO relationships, address activity, asset metadata and freshness state. |
+| **AI + system work** | Normalization and aggregation produce factual product objects; labels remain explicitly inferred and reviewable. |
+| **Outputs** | Asset overview, holdings/transaction view, event timeline, monitoring label and data-quality notice. |
+| **Result** | A public data-product case with sample events, event model, data model, risk-label boundary and product decisions. |
+| **Boundary** | No Bitcoin protocol-core, indexer-engine, exchange pricing, compliance conclusion or smart-contract ownership is claimed. |
+
 **Profile:** [LinkedIn](https://www.linkedin.com/in/valarie-yang-08573b122/) · [GitHub](https://github.com/valarie-yang)
 
 > Public-safe portfolio reconstruction using synthetic / public examples. No confidential company data. No claim of Bitcoin protocol-core, indexer-engine, compliance, or exchange pricing infrastructure ownership.
