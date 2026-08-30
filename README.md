@@ -73,6 +73,8 @@ Analytics + Monitoring
 - [`docs/risk-labels.md`](docs/risk-labels.md) — monitoring labels and review boundaries
 - [`docs/product-decisions.md`](docs/product-decisions.md) — key PM trade-offs
 - [`docs/product-metrics.md`](docs/product-metrics.md) — proposed product metrics
+- [`docs/portfolio-evidence-index.md`](docs/portfolio-evidence-index.md) — recruiter reading path and evidence status
+- [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md) — data provenance and privacy boundary
 - [`data/sample_events.csv`](data/sample_events.csv) — synthetic event sample
 
 ## Portfolio connection
