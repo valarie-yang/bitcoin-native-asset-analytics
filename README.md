@@ -6,6 +6,8 @@ A portfolio case study for normalizing and analyzing Bitcoin-native assets acros
 **Product area:** On-chain Data · UTXO · Address Analytics · Event Modeling · Risk Labels  
 **Artifacts:** Data model · Event model · Risk-label boundaries · Product decisions · Metrics · Synthetic sample data  
 **Portfolio:** [Valarie Yang — Product Portfolio](https://www.figma.com/design/pIUP2RYiUR3fpGoKHjRGnU/Valarie-Yang-%E2%80%94-Product-Portfolio?node-id=0-1)  
+
+![Bitcoin-native asset analytics model](assets/portfolio-signal.svg)
 **Profile:** [LinkedIn](https://www.linkedin.com/in/valarie-yang-08573b122/) · [GitHub](https://github.com/valarie-yang)
 
 > Public-safe portfolio reconstruction using synthetic / public examples. No confidential company data. No claim of Bitcoin protocol-core, indexer-engine, compliance, or exchange pricing infrastructure ownership.
